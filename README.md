@@ -1,15 +1,18 @@
-🌦️ WeatherApp CLI
-A simple and colorful Command-Line Weather App built with Go.
+# 🌦️ WeatherApp CLI
+
+A simple and colorful **Command-Line Weather App** built with **Go**.  
 Fetches real-time weather data and displays it beautifully in your terminal!
 
-📸 Preview
-bash
-Copy
-Edit
+---
+
+## 📸 Preview
+
+```bash
 Location: New York, United States
 Last Updated: 2025-04-29 01:42:22 AM
 Temperature: 22°C
 Condition: Partly Cloudy
+```
 🚀 Features
 📍 Display location and country
 
@@ -23,40 +26,36 @@ Condition: Partly Cloudy
 
 🛠️ Installation
 1. Clone the repository
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/weatherapp.git
-cd weatherapp
+```
+git clone https://github.com/prave01/Weather_App_CLI
+```
+```
+cd Weather_App_CLI
+```
 2. Build the project
-bash
-Copy
-Edit
+```
 go build -o weatherapp
+```
 3. Run the app
-bash
-Copy
-Edit
+```
 ./weatherapp
+```
+
 ✅ That's it! Now enjoy colorful weather updates right from your terminal!
 
 📦 Binary Releases
 You can download pre-built binaries from the Releases page for Windows.
 
 ⚙️ Usage
-bash
-Copy
-Edit
 weatherapp
-No extra setup required!
 Make sure you have an active internet connection to fetch live weather data.
 
 🖌️ Technologies Used
+```
 Go
-
 fatih/color
-
 weatherapi.com for weather data
+```
 
 📋 Todo (Future Enhancements)
 Add multi-location support
@@ -75,16 +74,3 @@ Feel free to open issues or submit pull requests.
 This project is licensed under the MIT License — see the LICENSE file for details.
 
 ⭐ If you like this project, please give it a star! ⭐
-⚡ Quick Copy Button
-Here’s the first line if you want a one-line badge too:
-
-markdown
-Copy
-Edit
-![Go](https://img.shields.io/badge/Go-1.22-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-📌 Note:
-Replace yourusername with your GitHub username.
-
-If you add an API key in the code later, do not commit secrets into GitHub (use .env files and godotenv if needed).
-
