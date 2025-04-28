@@ -4,27 +4,31 @@ A simple and colorful **Command-Line Weather App** built with **Go**.
 Fetches real-time weather data and displays it beautifully in your terminal!
 
 ---
-
 ## 📸 Preview
-
 ```bash
 Location: Coimbatore, TamilNadu
 Last Updated: 2025-04-29 01:42:22 AM
 Temperature: 27°C
 Condition: Mist
 ```
-🚀 Features
-📍 Display location and country
+---
 
-⏰ Show last updated time (from epoch to readable format)
+## 🚀 Features
 
-🌡️ Show temperature in Celsius
+### 📍 Display location and country
 
-🌤️ Show current weather condition
+### ⏰ Show last updated time (from epoch to readable format)
 
-🎨 Colored output using fatih/color
+### 🌡️ Show temperature in Celsius
 
-🛠️ Installation
+### 🌤️ Show current weather condition
+
+### 🎨 Colored output using fatih/color
+
+---
+
+## 🛠️ Installation
+
 1. Clone the repository
 ```
 git clone https://github.com/prave01/Weather_App_CLI
@@ -41,23 +45,23 @@ go build -o weatherapp
 ./weatherapp
 ```
 
-✅ That's it! Now enjoy colorful weather updates right from your terminal!
+## ✅ That's it! Now enjoy colorful weather updates right from your terminal!
 
-📦 Binary Releases
+## 📦 Binary Releases
 You can download pre-built binaries from the Releases page for Windows.
 
-⚙️ Usage
+## ⚙️ Usage
 weatherapp
 Make sure you have an active internet connection to fetch live weather data.
 
-🖌️ Technologies Used
+## 🖌️ Technologies Used
 ```
 Go
 fatih/color
 weatherapi.com for weather data
 ```
 
-📋 Todo (Future Enhancements)
+## 📋 Todo (Future Enhancements)
 Add multi-location support
 
 Support for forecast data
@@ -66,11 +70,11 @@ Optional dark/light terminal themes
 
 Add ASCII art for weather icons
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome!
 Feel free to open issues or submit pull requests.
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License — see the LICENSE file for details.
 
-⭐ If you like this project, please give it a star! ⭐
+### ⭐ If you like this project, please give it a star! ⭐
