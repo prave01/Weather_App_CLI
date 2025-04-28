@@ -8,10 +8,10 @@ Fetches real-time weather data and displays it beautifully in your terminal!
 ## 📸 Preview
 
 ```bash
-Location: New York, United States
+Location: Coimbatore, TamilNadu
 Last Updated: 2025-04-29 01:42:22 AM
-Temperature: 22°C
-Condition: Partly Cloudy
+Temperature: 27°C
+Condition: Mist
 ```
 🚀 Features
 📍 Display location and country
